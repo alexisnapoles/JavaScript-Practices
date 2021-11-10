@@ -1,8 +1,9 @@
 // assigning of values to initialize execution for the fibonacci sequence.
 let initialNumber = 0;
 let nextNumber = 1;
-// we will ask the user to input a limit or the value we want to get from the fibonacci sequence
-let askUser = prompt('Enter a number');
+// we will ask the user to input what term the user wants from the fibonacci sequence
+let askUser = 200;
+// let askUser = prompt('Enter a number');
 
 // in this part the initalNumber will take on the value of 0, while askUser will take on the value of the user input. So while loop will then check whether the condition is either True or False, if it is true then it will execute the scope within the loop.
 while (initialNumber <= askUser) {
