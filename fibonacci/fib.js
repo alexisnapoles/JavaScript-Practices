@@ -13,8 +13,7 @@ while (initialNumber <= askUser) {
     initialNumber = nextNumber;
     // the sum will now then be the nextNumber
     nextNumber = sum;
-    // we will have to bring forth the initialNumber or output initalNumber so to continue the loop until condition is False.
+    // we will have to bring forth the reassigned initialNumber to continue the loop until condition is False.
     console.log(initialNumber);
 }
 
-// needs to work on "how to install npm package? hmm.. via vsc terminal" because terminal keeps on showing a referenceError: prompt is not defined. ugh. otherwise it's pretty much working so to speak.
