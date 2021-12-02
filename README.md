@@ -1,2 +1,2 @@
 # JavaScript-Practices
- Includes .js file(s) for various problem practices. 
+Basic JavaSript practice exercises
